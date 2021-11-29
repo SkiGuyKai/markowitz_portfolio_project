@@ -1,0 +1,6 @@
+Required versions:
+ - yfinance 0.1.63
+ - numpy 1.20.2
+ - pandas 1.2.4
+ - matplotlib 3.4.1
+ - scipy 1.6.2
